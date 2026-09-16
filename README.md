@@ -1,4 +1,4 @@
-<h1 align="center">Formação Back-end Java</h1>
+<h1 align="center">Formação Backend Java</h1>
 
 <p align="center">
   Repositório criado para acompanhar minha evolução durante a formação de Backend com Java e Spring.
