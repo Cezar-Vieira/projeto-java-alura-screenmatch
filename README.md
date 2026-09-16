@@ -1,6 +1,8 @@
-#Formação Backend Java
+<h1 align="center">Formação Back-end Java</h1>
 
-Repositório criado para acompanhar minha evolução durante a formação de **Backend com Java e Spring**.
+<p align="center">
+  Repositório criado para acompanhar minha evolução durante a formação de Backend com Java e Spring.
+</p>
 
 ##Conteúdos
 
