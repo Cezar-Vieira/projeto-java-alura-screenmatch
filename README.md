@@ -4,7 +4,7 @@
   Repositório criado para acompanhar minha evolução durante a formação de Backend com Java e Spring.
 </p>
 
-##Conteúdos
+**Conteúdos**
 
 Ao longo da formação, serão estudados:
 
@@ -21,15 +21,15 @@ Ao longo da formação, serão estudados:
 - Arquitetura de Software
 - IA aplicada ao Backend
 
-##Tecnologias
+**Tecnologias**
 
 Java • Spring Boot • Spring Security • Docker • Kubernetes • RabbitMQ • Kafka • Git/GitHub
 
-##Objetivo
+**Objetivo**
 
 Construir uma base sólida em desenvolvimento backend e evoluir para a criação de aplicações modernas, escaláveis e bem estruturadas.
 
-##Autor
+**Autor**
 
 **Cezar Vieira**
 
